@@ -1,4 +1,5 @@
 # C-with-DS
+  C programming is the base language to learn coding and when you learn Data Structure with C language , it gives you a clear concept about points that can't be taught with any other language.
 
 
 [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)  
